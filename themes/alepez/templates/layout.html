@@ -28,7 +28,9 @@
       {% endif %}
 
       <link href="/css/main.css" rel="stylesheet">
+      {% if section.extra.crt %}
       <link href="/css/crt.css" rel="stylesheet">
+      {% endif %}
       <link id="syntax_highlight" href="#" rel="stylesheet">
 
       <title>
@@ -37,11 +39,7 @@
         {% endblock title %}
       </title>
   </head>
-  {% if config.crt %}
   <body class="dark:bg-gray-700 flex flex-col h-screen justify-between">
-  {% else %}
-  <body class="dark:bg-gray-700 flex flex-col h-screen justify-between crt-bg">
-  {% endif %}
   <!---------------------------------------------------------->
   <!------------------------- NAVBAR ------------------------->
   <!---------------------------------------------------------->
