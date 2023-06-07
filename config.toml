@@ -1,0 +1,83 @@
+# The URL the site will be built for
+base_url = "https://alepez.dev"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+theme = "blow"
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+[extra]
+enable_search = false
+enable_sidebar = false
+enable_adsense = false
+enable_multilingue = false
+# adsense_link = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=myclientid"
+
+[extra.lang]
+items = [
+    { lang = "en", links = [
+        { base_url = "/", name = "English" },
+        { base_url = "/it", name = "Italian" },
+    ] },
+    # { lang = "it", links = [
+    #     { base_url = "/", name = "Inglese" },
+    #     { base_url = "/it", name = "Italiano" },
+    # ] },
+]
+
+[extra.navbar]
+items = [
+    { lang = "en", links = [
+        { url = "/", name = "Home" },
+        # { url = "/tags", name = "Tags" },
+    ] },
+    # { lang = "it", links = [
+    #     { url = "/it", name = "Accueil" },
+    #     { url = "/it/tags", name = "Tags" },
+    # ] },
+]
+title = "Alessandro Pezzato"
+
+[extra.sidebar]
+items = [
+    { lang = "en", links = [
+        { url = "/blog", name = "Blog" },
+    ] },
+    { lang = "it", links = [
+        { url = "/it/blog", name = "Blog" },
+    ] },
+]
+
+# Index page
+[extra.index]
+title = "Alessandro Pezzato"
+image = "https://media.licdn.com/dms/image/C4E03AQFKjPRVeRICjw/profile-displayphoto-shrink_800_800/0/1637755331447?e=1691625600&v=beta&t=cXZ3JIVf55mHc-rLcwifPSuR67NYidAPDOWEaAElfCQ"
+image_alt = "Alessandro Pezzato"
+
+[extra.default_author]
+name = "Alessandro Pezzato"
+avatar = "https://via.placeholder.com/200"
+avatar_alt = "Placeholder text describing the default author's avatar."
+
+[extra.social]
+github = "https://github.com/alepez"
+gitlab = "https://gitlab.com/alepez"
+twitter = "https://twitter.com/alepezzato"
+linkedin = "https://www.linkedin.com/in/alessandropezzato/"
+
+[extra.favicon]
+favicon = "/icons/favicon.ico"
+favicon_16x16 = "/icons/favicon-16x16.png"
+favicon_32x32 = "/icons/favicon-32x32.png"
+apple_touch_icon = "/icons/apple-touch-icon.png"
+android_chrome_512 = "/icons/android-chrome-512x512.png"
+android_chrome_192 = "/icons/android-chrome-192x192.png"
+manifest = "/icons/site.webmanifest"
