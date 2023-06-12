@@ -59,7 +59,7 @@ items = [
 # Index page
 [extra.index]
 title = "Alessandro Pezzato"
-image = "https://media.licdn.com/dms/image/C4E03AQFKjPRVeRICjw/profile-displayphoto-shrink_800_800/0/1637755331447?e=1691625600&v=beta&t=cXZ3JIVf55mHc-rLcwifPSuR67NYidAPDOWEaAElfCQ"
+image = "alepez.jpg"
 image_alt = "Alessandro Pezzato"
 
 [extra.default_author]
