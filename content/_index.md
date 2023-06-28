@@ -5,4 +5,4 @@ title = "Alessandro Pezzato"
 crt = true
 +++
 
-<div class="hero">Always be coding. Always be learning.</div>
+<div class="hero">Always be coding.<br/>Always be learning.</div>
