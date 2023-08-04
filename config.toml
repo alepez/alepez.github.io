@@ -70,7 +70,7 @@ avatar_alt = "Placeholder text describing the default author's avatar."
 [extra.social]
 github = "https://github.com/alepez"
 gitlab = "https://gitlab.com/alepez"
-twitter = "https://twitter.com/alepezzato"
+# twitter = "https://twitter.com/alepezzato"
 linkedin = "https://www.linkedin.com/in/alessandropezzato/"
 stackoverflow = "https://stackoverflow.com/users/786186/alessandro-pezzato" 
 
