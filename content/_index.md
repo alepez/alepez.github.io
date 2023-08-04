@@ -5,7 +5,7 @@ title = "Alessandro Pezzato"
 crt = true
 +++
 
-<div class="hero">Always be coding.<br/>Always be learning.</div>
+<div class="hero">Learn. Code. Teach. Repeat.</div>
 
 I am a software developer with over 15 years of professional experience in **C**
 and **C++**, mainly for Linux and Embedded systems.
