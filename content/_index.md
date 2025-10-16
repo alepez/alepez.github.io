@@ -7,18 +7,16 @@ crt = true
 
 <div class="hero">Learn. Code. Teach. Repeat.</div>
 
-I am a software developer with over 15 years of professional experience in **C**
-and **C++**, mainly for Linux and Embedded systems.
+I am a *Rust* software engineer at [Standard AI](https://standard.ai/), where I
+focus on building robust and efficient systems. I started programming as a kid
+and began my professional career 18 years ago, building a strong foundation in
+*C++* and *C*, particularly for Linux and embedded environments.
 
-I have a passion for **sharing my knowledge**, and have been training individuals
-on the intricacies of C++ for many yerars.
+Throughout my career, I have been passionate about sharing knowledge --
+designing and delivering training sessions and courses in both Italian and
+English. I enjoy helping others master the intricacies of modern C++ and *Rust*,
+and I value clear communication and collaborative learning.
 
-I have experience working on various open source projects using **Rust**.
-
-I am actively seeking **opportunities to work with both Rust and C++**.
-
-If your company requires consultancy for developing applications in C, C++, or
-Rust, feel free to **reach out to me via LinkedIn**.
-
-I also handle **training** by designing and delivering **courses** in both Italian and English.
+If you would like to connect or discuss technology, feel free to reach out to
+me on LinkedIn.
 
